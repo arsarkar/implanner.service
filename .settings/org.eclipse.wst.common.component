@@ -4,18 +4,6 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-        <dependent-module archiveName="implanner-1.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/implanner/implanner">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
-        <dependent-module archiveName="labimp.basis-1.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/labimp.basis/labimp.basis">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
-        <dependent-module archiveName="labimp.extend-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/labimp.extend/labimp.extend">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
-        <dependent-module archiveName="labimp.graph-1.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/labimp.graph/labimp.graph">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
         <property name="context-root" value="implanner.service"/>
         <property name="java-output-path" value="/implanner.service/target/classes"/>
     </wb-module>
