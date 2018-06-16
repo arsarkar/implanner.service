@@ -2,8 +2,12 @@ package edu.ohiou.mfgresearch.implanner.service;
 
 import org.glassfish.jersey.media.multipart.FormDataContentDisposition;
 import org.glassfish.jersey.media.multipart.FormDataParam;
+import org.hamcrest.core.IsNull;
+
+import edu.ohiou.mfgresearch.implanner.parts.MfgPartModel;
 
 import javax.ws.rs.Consumes;
+import javax.ws.rs.GET;
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
@@ -73,6 +77,14 @@ public class FeatureMappingService {
 		return Response.status(200)
 				.entity("File saved to " + uploadedFileLocation).build();
 	}
+	
+	@GET
+	@Path("feature")
+	@Produces(MediaType.TEXT_PLAIN)
+	public String readPartFile(){
+		return "Hello from features";
+	}
+
 	
 	/**
 	 * Utility method to save InputStream data to target location/file

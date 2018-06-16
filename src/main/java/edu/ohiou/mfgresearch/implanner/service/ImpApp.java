@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * Portable JAX-RS application.
  *
- * @author Arul Dhesiaseelan (aruld@acm.org)
+ * @author Arkopaul Sarkar 
  */
 public class ImpApp extends Application {
     @Override
