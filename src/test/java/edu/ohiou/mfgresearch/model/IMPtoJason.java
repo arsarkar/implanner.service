@@ -17,7 +17,8 @@ public class IMPtoJason {
 		try {
 			Line3d line = new Line3d(new Point3d(1, 2, 3), new Point3d(3, 2, 1));
 			ObjectMapper mapper = new ObjectMapper();
-			String lineJason = mapper.writeValueAsString(line);
+			String lineJason = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(line);
+			System.out.println(lineJason);
 		} catch (InvalidLineException e) {
 			// TODO Auto-generated catch block
 			System.out.println("Line 3D could not be created....... \n" + e.getMessage());

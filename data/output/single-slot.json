@@ -1,0 +1,1914 @@
+{
+  "panelLocation" : 0,
+  "panelOrientation" : 0,
+  "packetNumber" : 0,
+  "lastPacket" : false,
+  "mayBeMachinedBy" : [ ],
+  "featureName" : "RECTANGULAR_SLOT(2)",
+  "nextFeatures" : [ ],
+  "previousFeatures" : [ ],
+  "featureProcesses" : [ ],
+  "mfgPartModelName" : "singleHole",
+  "featureTag" : 0,
+  "solidTag" : 0,
+  "featureSolid" : null,
+  "partFeature" : {
+    "panelLocation" : 0,
+    "panelOrientation" : 0,
+    "packetNumber" : 0,
+    "lastPacket" : false,
+    "objectName" : "RECTANGULAR_SLOT(2)",
+    "objectID" : 22144,
+    "childFeatures" : [ ],
+    "parentFeatures" : [ ],
+    "edges" : [ {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27182,
+      "type" : 3001,
+      "length" : 2.5,
+      "faces" : null,
+      "parentSolid" : null,
+      "vertices" : [ {
+        "x" : 2.25,
+        "y" : 0.8455267087911201,
+        "z" : 3.5
+      }, {
+        "x" : 2.25,
+        "y" : 3.34552670879112,
+        "z" : 3.5
+      } ],
+      "vertexTags" : [ 0, 0 ],
+      "lineSegment" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "startPoint" : [ 2.25, 0.8455267087911201, 3.5 ],
+        "endPoint" : [ 2.25, 3.34552670879112, 3.5 ],
+        "length" : 2.5,
+        "pointSet" : [ ],
+        "className" : "LineSegment",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "LineEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27180,
+      "type" : 3002,
+      "length" : 0.0,
+      "faces" : null,
+      "parentSolid" : null,
+      "radius" : 0.25,
+      "center" : {
+        "x" : 2.0000000000000004,
+        "y" : 0.8455267087911201,
+        "z" : 3.5
+      },
+      "startAngle" : 3.141592653589793,
+      "endAngle" : 6.283185307179586,
+      "xAxis" : {
+        "x" : 1.0,
+        "y" : 0.0,
+        "z" : 0.0
+      },
+      "yAxis" : {
+        "x" : 0.0,
+        "y" : 1.0,
+        "z" : 0.0
+      },
+      "normal" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 1.0
+      },
+      "xaxis" : {
+        "x" : 1.0,
+        "y" : 0.0,
+        "z" : 0.0
+      },
+      "yaxis" : {
+        "x" : 0.0,
+        "y" : 1.0,
+        "z" : 0.0
+      },
+      "arc" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "center" : [ 2.0000000000000004, 0.8455267087911201, 3.5 ],
+        "normal" : [ 0.0, 0.0, 1.0 ],
+        "radius" : 0.25,
+        "startAngle" : 3.141592653589793,
+        "endAngle" : 6.283185307179586,
+        "segments" : 50,
+        "xaxis" : [ 1.0, 0.0, 0.0 ],
+        "yaxis" : [ 0.0, 1.0, 0.0 ],
+        "pointSet" : [ ],
+        "className" : "Arc",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "ArcEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27184,
+      "type" : 3002,
+      "length" : 0.0,
+      "faces" : null,
+      "parentSolid" : null,
+      "radius" : 0.25,
+      "center" : {
+        "x" : 2.0000000000000004,
+        "y" : 3.34552670879112,
+        "z" : 3.5
+      },
+      "startAngle" : 0.0,
+      "endAngle" : 3.141592653589793,
+      "xAxis" : {
+        "x" : 1.0,
+        "y" : 0.0,
+        "z" : 0.0
+      },
+      "yAxis" : {
+        "x" : 0.0,
+        "y" : 1.0,
+        "z" : 0.0
+      },
+      "normal" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 1.0
+      },
+      "xaxis" : {
+        "x" : 1.0,
+        "y" : 0.0,
+        "z" : 0.0
+      },
+      "yaxis" : {
+        "x" : 0.0,
+        "y" : 1.0,
+        "z" : 0.0
+      },
+      "arc" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "center" : [ 2.0000000000000004, 3.34552670879112, 3.5 ],
+        "normal" : [ 0.0, 0.0, 1.0 ],
+        "radius" : 0.25,
+        "startAngle" : 0.0,
+        "endAngle" : 3.141592653589793,
+        "segments" : 50,
+        "xaxis" : [ 1.0, 0.0, 0.0 ],
+        "yaxis" : [ 0.0, 1.0, 0.0 ],
+        "pointSet" : [ ],
+        "className" : "Arc",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "ArcEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27178,
+      "type" : 3001,
+      "length" : 0.5,
+      "faces" : null,
+      "parentSolid" : null,
+      "vertices" : [ {
+        "x" : 1.7500000000000002,
+        "y" : 0.8455267087911201,
+        "z" : 3.5
+      }, {
+        "x" : 1.7500000000000002,
+        "y" : 0.8455267087911201,
+        "z" : 4.0
+      } ],
+      "vertexTags" : [ 0, 0 ],
+      "lineSegment" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "startPoint" : [ 1.7500000000000002, 0.8455267087911201, 3.5 ],
+        "endPoint" : [ 1.7500000000000002, 0.8455267087911201, 4.0 ],
+        "length" : 0.5,
+        "pointSet" : [ ],
+        "className" : "LineSegment",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "LineEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27183,
+      "type" : 3001,
+      "length" : 0.5,
+      "faces" : null,
+      "parentSolid" : null,
+      "vertices" : [ {
+        "x" : 2.25,
+        "y" : 3.34552670879112,
+        "z" : 3.5
+      }, {
+        "x" : 2.25,
+        "y" : 3.34552670879112,
+        "z" : 4.0
+      } ],
+      "vertexTags" : [ 0, 0 ],
+      "lineSegment" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "startPoint" : [ 2.25, 3.34552670879112, 3.5 ],
+        "endPoint" : [ 2.25, 3.34552670879112, 4.0 ],
+        "length" : 0.5,
+        "pointSet" : [ ],
+        "className" : "LineSegment",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "LineEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27177,
+      "type" : 3002,
+      "length" : 0.0,
+      "faces" : null,
+      "parentSolid" : null,
+      "radius" : 0.25,
+      "center" : {
+        "x" : 2.0000000000000004,
+        "y" : 3.34552670879112,
+        "z" : 4.0
+      },
+      "startAngle" : 0.0,
+      "endAngle" : 3.141592653589793,
+      "xAxis" : {
+        "x" : 1.0,
+        "y" : 0.0,
+        "z" : 0.0
+      },
+      "yAxis" : {
+        "x" : 0.0,
+        "y" : 1.0,
+        "z" : 0.0
+      },
+      "normal" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 1.0
+      },
+      "xaxis" : {
+        "x" : 1.0,
+        "y" : 0.0,
+        "z" : 0.0
+      },
+      "yaxis" : {
+        "x" : 0.0,
+        "y" : 1.0,
+        "z" : 0.0
+      },
+      "arc" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "center" : [ 2.0000000000000004, 3.34552670879112, 4.0 ],
+        "normal" : [ 0.0, 0.0, 1.0 ],
+        "radius" : 0.25,
+        "startAngle" : 0.0,
+        "endAngle" : 3.141592653589793,
+        "segments" : 50,
+        "xaxis" : [ 1.0, 0.0, 0.0 ],
+        "yaxis" : [ 0.0, 1.0, 0.0 ],
+        "pointSet" : [ ],
+        "className" : "Arc",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "ArcEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27185,
+      "type" : 3001,
+      "length" : 0.5,
+      "faces" : null,
+      "parentSolid" : null,
+      "vertices" : [ {
+        "x" : 1.7500000000000002,
+        "y" : 3.34552670879112,
+        "z" : 3.5
+      }, {
+        "x" : 1.7500000000000002,
+        "y" : 3.34552670879112,
+        "z" : 4.0
+      } ],
+      "vertexTags" : [ 0, 0 ],
+      "lineSegment" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "startPoint" : [ 1.7500000000000002, 3.34552670879112, 3.5 ],
+        "endPoint" : [ 1.7500000000000002, 3.34552670879112, 4.0 ],
+        "length" : 0.5,
+        "pointSet" : [ ],
+        "className" : "LineSegment",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "LineEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27186,
+      "type" : 3002,
+      "length" : 0.0,
+      "faces" : null,
+      "parentSolid" : null,
+      "radius" : 0.25,
+      "center" : {
+        "x" : 2.0000000000000004,
+        "y" : 0.8455267087911201,
+        "z" : 4.0
+      },
+      "startAngle" : 3.141592653589793,
+      "endAngle" : 6.283185307179586,
+      "xAxis" : {
+        "x" : 1.0,
+        "y" : 0.0,
+        "z" : 0.0
+      },
+      "yAxis" : {
+        "x" : 0.0,
+        "y" : 1.0,
+        "z" : 0.0
+      },
+      "normal" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 1.0
+      },
+      "xaxis" : {
+        "x" : 1.0,
+        "y" : 0.0,
+        "z" : 0.0
+      },
+      "yaxis" : {
+        "x" : 0.0,
+        "y" : 1.0,
+        "z" : 0.0
+      },
+      "arc" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "center" : [ 2.0000000000000004, 0.8455267087911201, 4.0 ],
+        "normal" : [ 0.0, 0.0, 1.0 ],
+        "radius" : 0.25,
+        "startAngle" : 3.141592653589793,
+        "endAngle" : 6.283185307179586,
+        "segments" : 50,
+        "xaxis" : [ 1.0, 0.0, 0.0 ],
+        "yaxis" : [ 0.0, 1.0, 0.0 ],
+        "pointSet" : [ ],
+        "className" : "Arc",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "ArcEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27187,
+      "type" : 3001,
+      "length" : 2.5,
+      "faces" : null,
+      "parentSolid" : null,
+      "vertices" : [ {
+        "x" : 1.7500000000000002,
+        "y" : 0.8455267087911202,
+        "z" : 4.0
+      }, {
+        "x" : 1.7500000000000002,
+        "y" : 3.3455267087911205,
+        "z" : 4.0
+      } ],
+      "vertexTags" : [ 0, 0 ],
+      "lineSegment" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "startPoint" : [ 1.7500000000000002, 0.8455267087911202, 4.0 ],
+        "endPoint" : [ 1.7500000000000002, 3.3455267087911205, 4.0 ],
+        "length" : 2.5,
+        "pointSet" : [ ],
+        "className" : "LineSegment",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "LineEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27179,
+      "type" : 3001,
+      "length" : 2.5,
+      "faces" : null,
+      "parentSolid" : null,
+      "vertices" : [ {
+        "x" : 1.7500000000000002,
+        "y" : 0.8455267087911201,
+        "z" : 3.5
+      }, {
+        "x" : 1.7500000000000002,
+        "y" : 3.34552670879112,
+        "z" : 3.5
+      } ],
+      "vertexTags" : [ 0, 0 ],
+      "lineSegment" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "startPoint" : [ 1.7500000000000002, 0.8455267087911201, 3.5 ],
+        "endPoint" : [ 1.7500000000000002, 3.34552670879112, 3.5 ],
+        "length" : 2.5,
+        "pointSet" : [ ],
+        "className" : "LineSegment",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "LineEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27188,
+      "type" : 3001,
+      "length" : 2.5,
+      "faces" : null,
+      "parentSolid" : null,
+      "vertices" : [ {
+        "x" : 2.25,
+        "y" : 0.8455267087911202,
+        "z" : 4.0
+      }, {
+        "x" : 2.25,
+        "y" : 3.3455267087911205,
+        "z" : 4.0
+      } ],
+      "vertexTags" : [ 0, 0 ],
+      "lineSegment" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "startPoint" : [ 2.25, 0.8455267087911202, 4.0 ],
+        "endPoint" : [ 2.25, 3.3455267087911205, 4.0 ],
+        "length" : 2.5,
+        "pointSet" : [ ],
+        "className" : "LineSegment",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "LineEdge",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27181,
+      "type" : 3001,
+      "length" : 0.5,
+      "faces" : null,
+      "parentSolid" : null,
+      "vertices" : [ {
+        "x" : 2.25,
+        "y" : 0.8455267087911201,
+        "z" : 3.5
+      }, {
+        "x" : 2.25,
+        "y" : 0.8455267087911201,
+        "z" : 4.0
+      } ],
+      "vertexTags" : [ 0, 0 ],
+      "lineSegment" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "startPoint" : [ 2.25, 0.8455267087911201, 3.5 ],
+        "endPoint" : [ 2.25, 0.8455267087911201, 4.0 ],
+        "length" : 0.5,
+        "pointSet" : [ ],
+        "className" : "LineSegment",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "LineEdge",
+      "visible" : false,
+      "displayMode" : 0
+    } ],
+    "faces" : [ {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27155,
+      "type" : 16,
+      "edges" : [ {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27184,
+        "type" : 3002,
+        "length" : 0.0,
+        "faces" : null,
+        "parentSolid" : null,
+        "radius" : 0.25,
+        "center" : {
+          "x" : 2.0000000000000004,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        },
+        "startAngle" : 0.0,
+        "endAngle" : 3.141592653589793,
+        "xAxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yAxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "normal" : {
+          "x" : 0.0,
+          "y" : 0.0,
+          "z" : 1.0
+        },
+        "xaxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yaxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "arc" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "center" : [ 2.0000000000000004, 3.34552670879112, 3.5 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.25,
+          "startAngle" : 0.0,
+          "endAngle" : 3.141592653589793,
+          "segments" : 50,
+          "xaxis" : [ 1.0, 0.0, 0.0 ],
+          "yaxis" : [ 0.0, 1.0, 0.0 ],
+          "pointSet" : [ ],
+          "className" : "Arc",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "ArcEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27177,
+        "type" : 3002,
+        "length" : 0.0,
+        "faces" : null,
+        "parentSolid" : null,
+        "radius" : 0.25,
+        "center" : {
+          "x" : 2.0000000000000004,
+          "y" : 3.34552670879112,
+          "z" : 4.0
+        },
+        "startAngle" : 0.0,
+        "endAngle" : 3.141592653589793,
+        "xAxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yAxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "normal" : {
+          "x" : 0.0,
+          "y" : 0.0,
+          "z" : 1.0
+        },
+        "xaxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yaxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "arc" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "center" : [ 2.0000000000000004, 3.34552670879112, 4.0 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.25,
+          "startAngle" : 0.0,
+          "endAngle" : 3.141592653589793,
+          "segments" : 50,
+          "xaxis" : [ 1.0, 0.0, 0.0 ],
+          "yaxis" : [ 0.0, 1.0, 0.0 ],
+          "pointSet" : [ ],
+          "className" : "Arc",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "ArcEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27183,
+        "type" : 3001,
+        "length" : 0.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 2.25,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        }, {
+          "x" : 2.25,
+          "y" : 3.34552670879112,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 2.25, 3.34552670879112, 3.5 ],
+          "endPoint" : [ 2.25, 3.34552670879112, 4.0 ],
+          "length" : 0.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27185,
+        "type" : 3001,
+        "length" : 0.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 1.7500000000000002,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 3.34552670879112,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 1.7500000000000002, 3.34552670879112, 3.5 ],
+          "endPoint" : [ 1.7500000000000002, 3.34552670879112, 4.0 ],
+          "length" : 0.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      } ],
+      "appletSize" : {
+        "width" : 800.0,
+        "height" : 600.0
+      },
+      "normal" : {
+        "x" : -0.0,
+        "y" : -0.0,
+        "z" : -1.0
+      },
+      "point" : {
+        "x" : 2.0000000000000004,
+        "y" : 3.34552670879112,
+        "z" : 3.75
+      },
+      "facePolygon" : null,
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "Face",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27153,
+      "type" : 16,
+      "edges" : [ {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27180,
+        "type" : 3002,
+        "length" : 0.0,
+        "faces" : null,
+        "parentSolid" : null,
+        "radius" : 0.25,
+        "center" : {
+          "x" : 2.0000000000000004,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        },
+        "startAngle" : 3.141592653589793,
+        "endAngle" : 6.283185307179586,
+        "xAxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yAxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "normal" : {
+          "x" : 0.0,
+          "y" : 0.0,
+          "z" : 1.0
+        },
+        "xaxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yaxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "arc" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "center" : [ 2.0000000000000004, 0.8455267087911201, 3.5 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.25,
+          "startAngle" : 3.141592653589793,
+          "endAngle" : 6.283185307179586,
+          "segments" : 50,
+          "xaxis" : [ 1.0, 0.0, 0.0 ],
+          "yaxis" : [ 0.0, 1.0, 0.0 ],
+          "pointSet" : [ ],
+          "className" : "Arc",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "ArcEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27178,
+        "type" : 3001,
+        "length" : 0.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 1.7500000000000002,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 0.8455267087911201,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 1.7500000000000002, 0.8455267087911201, 3.5 ],
+          "endPoint" : [ 1.7500000000000002, 0.8455267087911201, 4.0 ],
+          "length" : 0.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27186,
+        "type" : 3002,
+        "length" : 0.0,
+        "faces" : null,
+        "parentSolid" : null,
+        "radius" : 0.25,
+        "center" : {
+          "x" : 2.0000000000000004,
+          "y" : 0.8455267087911201,
+          "z" : 4.0
+        },
+        "startAngle" : 3.141592653589793,
+        "endAngle" : 6.283185307179586,
+        "xAxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yAxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "normal" : {
+          "x" : 0.0,
+          "y" : 0.0,
+          "z" : 1.0
+        },
+        "xaxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yaxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "arc" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "center" : [ 2.0000000000000004, 0.8455267087911201, 4.0 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.25,
+          "startAngle" : 3.141592653589793,
+          "endAngle" : 6.283185307179586,
+          "segments" : 50,
+          "xaxis" : [ 1.0, 0.0, 0.0 ],
+          "yaxis" : [ 0.0, 1.0, 0.0 ],
+          "pointSet" : [ ],
+          "className" : "Arc",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "ArcEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27181,
+        "type" : 3001,
+        "length" : 0.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 2.25,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        }, {
+          "x" : 2.25,
+          "y" : 0.8455267087911201,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 2.25, 0.8455267087911201, 3.5 ],
+          "endPoint" : [ 2.25, 0.8455267087911201, 4.0 ],
+          "length" : 0.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      } ],
+      "appletSize" : {
+        "width" : 800.0,
+        "height" : 600.0
+      },
+      "normal" : {
+        "x" : -0.0,
+        "y" : -0.0,
+        "z" : -1.0
+      },
+      "point" : {
+        "x" : 2.0000000000000004,
+        "y" : 0.8455267087911201,
+        "z" : 3.75
+      },
+      "facePolygon" : null,
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "Face",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27154,
+      "type" : 22,
+      "edges" : [ {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27182,
+        "type" : 3001,
+        "length" : 2.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 2.25,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        }, {
+          "x" : 2.25,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 2.25, 0.8455267087911201, 3.5 ],
+          "endPoint" : [ 2.25, 3.34552670879112, 3.5 ],
+          "length" : 2.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27183,
+        "type" : 3001,
+        "length" : 0.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 2.25,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        }, {
+          "x" : 2.25,
+          "y" : 3.34552670879112,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 2.25, 3.34552670879112, 3.5 ],
+          "endPoint" : [ 2.25, 3.34552670879112, 4.0 ],
+          "length" : 0.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27188,
+        "type" : 3001,
+        "length" : 2.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 2.25,
+          "y" : 0.8455267087911202,
+          "z" : 4.0
+        }, {
+          "x" : 2.25,
+          "y" : 3.3455267087911205,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 2.25, 0.8455267087911202, 4.0 ],
+          "endPoint" : [ 2.25, 3.3455267087911205, 4.0 ],
+          "length" : 2.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27181,
+        "type" : 3001,
+        "length" : 0.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 2.25,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        }, {
+          "x" : 2.25,
+          "y" : 0.8455267087911201,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 2.25, 0.8455267087911201, 3.5 ],
+          "endPoint" : [ 2.25, 0.8455267087911201, 4.0 ],
+          "length" : 0.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      } ],
+      "appletSize" : {
+        "width" : 800.0,
+        "height" : 600.0
+      },
+      "normal" : {
+        "x" : -1.0,
+        "y" : 0.0,
+        "z" : 0.0
+      },
+      "point" : {
+        "x" : 2.25,
+        "y" : 2.09552670879112,
+        "z" : 3.75
+      },
+      "facePolygon" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "pointSet" : [ {
+          "x" : 2.25,
+          "y" : 0.8455267087911202,
+          "z" : 4.0
+        }, {
+          "x" : 2.25,
+          "y" : 3.3455267087911205,
+          "z" : 4.0
+        }, {
+          "x" : 2.25,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        }, {
+          "x" : 2.25,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        } ],
+        "normal" : {
+          "x" : -1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "line3dList" : [ {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "direction" : {
+            "x" : 0.0,
+            "y" : 1.0,
+            "z" : 0.0
+          },
+          "point" : {
+            "x" : 2.25,
+            "y" : 0.8455267087911202,
+            "z" : 4.0
+          },
+          "pointSet" : [ ],
+          "className" : "Line3d",
+          "visible" : false,
+          "displayMode" : 0
+        }, {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "direction" : {
+            "x" : 0.0,
+            "y" : -8.881784197001252E-16,
+            "z" : -1.0
+          },
+          "point" : {
+            "x" : 2.25,
+            "y" : 3.3455267087911205,
+            "z" : 4.0
+          },
+          "pointSet" : [ ],
+          "className" : "Line3d",
+          "visible" : false,
+          "displayMode" : 0
+        }, {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "direction" : {
+            "x" : 0.0,
+            "y" : -1.0,
+            "z" : 0.0
+          },
+          "point" : {
+            "x" : 2.25,
+            "y" : 3.34552670879112,
+            "z" : 3.5
+          },
+          "pointSet" : [ ],
+          "className" : "Line3d",
+          "visible" : false,
+          "displayMode" : 0
+        }, {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "direction" : {
+            "x" : 0.0,
+            "y" : 2.220446049250313E-16,
+            "z" : 1.0
+          },
+          "point" : {
+            "x" : 2.25,
+            "y" : 0.8455267087911201,
+            "z" : 3.5
+          },
+          "pointSet" : [ ],
+          "className" : "Line3d",
+          "visible" : false,
+          "displayMode" : 0
+        } ],
+        "plane" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "planePoint" : [ 2.25, 0.8455267087911202, 4.0 ],
+          "planeNormal" : [ -1.0, 0.0, 0.0 ],
+          "normal" : {
+            "x" : -1.0,
+            "y" : 0.0,
+            "z" : 0.0
+          },
+          "point" : {
+            "x" : 2.25,
+            "y" : 0.8455267087911202,
+            "z" : 4.0
+          },
+          "pointSet" : [ ],
+          "className" : "Plane",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "polygon3dInsidePolygon3d" : true,
+        "className" : "Polygon3d",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "Face",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27152,
+      "type" : 22,
+      "edges" : [ {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27182,
+        "type" : 3001,
+        "length" : 2.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 2.25,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        }, {
+          "x" : 2.25,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 2.25, 0.8455267087911201, 3.5 ],
+          "endPoint" : [ 2.25, 3.34552670879112, 3.5 ],
+          "length" : 2.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27180,
+        "type" : 3002,
+        "length" : 0.0,
+        "faces" : null,
+        "parentSolid" : null,
+        "radius" : 0.25,
+        "center" : {
+          "x" : 2.0000000000000004,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        },
+        "startAngle" : 3.141592653589793,
+        "endAngle" : 6.283185307179586,
+        "xAxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yAxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "normal" : {
+          "x" : 0.0,
+          "y" : 0.0,
+          "z" : 1.0
+        },
+        "xaxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yaxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "arc" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "center" : [ 2.0000000000000004, 0.8455267087911201, 3.5 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.25,
+          "startAngle" : 3.141592653589793,
+          "endAngle" : 6.283185307179586,
+          "segments" : 50,
+          "xaxis" : [ 1.0, 0.0, 0.0 ],
+          "yaxis" : [ 0.0, 1.0, 0.0 ],
+          "pointSet" : [ ],
+          "className" : "Arc",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "ArcEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27184,
+        "type" : 3002,
+        "length" : 0.0,
+        "faces" : null,
+        "parentSolid" : null,
+        "radius" : 0.25,
+        "center" : {
+          "x" : 2.0000000000000004,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        },
+        "startAngle" : 0.0,
+        "endAngle" : 3.141592653589793,
+        "xAxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yAxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "normal" : {
+          "x" : 0.0,
+          "y" : 0.0,
+          "z" : 1.0
+        },
+        "xaxis" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "yaxis" : {
+          "x" : 0.0,
+          "y" : 1.0,
+          "z" : 0.0
+        },
+        "arc" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "center" : [ 2.0000000000000004, 3.34552670879112, 3.5 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.25,
+          "startAngle" : 0.0,
+          "endAngle" : 3.141592653589793,
+          "segments" : 50,
+          "xaxis" : [ 1.0, 0.0, 0.0 ],
+          "yaxis" : [ 0.0, 1.0, 0.0 ],
+          "pointSet" : [ ],
+          "className" : "Arc",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "ArcEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27179,
+        "type" : 3001,
+        "length" : 2.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 1.7500000000000002,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 1.7500000000000002, 0.8455267087911201, 3.5 ],
+          "endPoint" : [ 1.7500000000000002, 3.34552670879112, 3.5 ],
+          "length" : 2.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      } ],
+      "appletSize" : {
+        "width" : 800.0,
+        "height" : 600.0
+      },
+      "normal" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 1.0
+      },
+      "point" : {
+        "x" : 2.0000000000000004,
+        "y" : 2.09552670879112,
+        "z" : 3.5
+      },
+      "facePolygon" : null,
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "Face",
+      "visible" : false,
+      "displayMode" : 0
+    }, {
+      "panelLocation" : 0,
+      "panelOrientation" : 0,
+      "packetNumber" : 0,
+      "lastPacket" : false,
+      "objectName" : null,
+      "objectID" : 27151,
+      "type" : 22,
+      "edges" : [ {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27178,
+        "type" : 3001,
+        "length" : 0.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 1.7500000000000002,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 0.8455267087911201,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 1.7500000000000002, 0.8455267087911201, 3.5 ],
+          "endPoint" : [ 1.7500000000000002, 0.8455267087911201, 4.0 ],
+          "length" : 0.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27185,
+        "type" : 3001,
+        "length" : 0.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 1.7500000000000002,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 3.34552670879112,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 1.7500000000000002, 3.34552670879112, 3.5 ],
+          "endPoint" : [ 1.7500000000000002, 3.34552670879112, 4.0 ],
+          "length" : 0.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27187,
+        "type" : 3001,
+        "length" : 2.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 1.7500000000000002,
+          "y" : 0.8455267087911202,
+          "z" : 4.0
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 3.3455267087911205,
+          "z" : 4.0
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 1.7500000000000002, 0.8455267087911202, 4.0 ],
+          "endPoint" : [ 1.7500000000000002, 3.3455267087911205, 4.0 ],
+          "length" : 2.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      }, {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "packetNumber" : 0,
+        "lastPacket" : false,
+        "objectName" : null,
+        "objectID" : 27179,
+        "type" : 3001,
+        "length" : 2.5,
+        "faces" : null,
+        "parentSolid" : null,
+        "vertices" : [ {
+          "x" : 1.7500000000000002,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        } ],
+        "vertexTags" : [ 0, 0 ],
+        "lineSegment" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "startPoint" : [ 1.7500000000000002, 0.8455267087911201, 3.5 ],
+          "endPoint" : [ 1.7500000000000002, 3.34552670879112, 3.5 ],
+          "length" : 2.5,
+          "pointSet" : [ ],
+          "className" : "LineSegment",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "stock" : null,
+        "pointSet" : [ ],
+        "className" : "LineEdge",
+        "visible" : false,
+        "displayMode" : 0
+      } ],
+      "appletSize" : {
+        "width" : 800.0,
+        "height" : 600.0
+      },
+      "normal" : {
+        "x" : 1.0,
+        "y" : -0.0,
+        "z" : -0.0
+      },
+      "point" : {
+        "x" : 1.7500000000000002,
+        "y" : 2.09552670879112,
+        "z" : 3.75
+      },
+      "facePolygon" : {
+        "panelLocation" : 0,
+        "panelOrientation" : 0,
+        "pointSet" : [ {
+          "x" : 1.7500000000000002,
+          "y" : 3.3455267087911205,
+          "z" : 4.0
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 0.8455267087911202,
+          "z" : 4.0
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 0.8455267087911201,
+          "z" : 3.5
+        }, {
+          "x" : 1.7500000000000002,
+          "y" : 3.34552670879112,
+          "z" : 3.5
+        } ],
+        "normal" : {
+          "x" : 1.0,
+          "y" : 0.0,
+          "z" : 0.0
+        },
+        "line3dList" : [ {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "direction" : {
+            "x" : 0.0,
+            "y" : -1.0,
+            "z" : 0.0
+          },
+          "point" : {
+            "x" : 1.7500000000000002,
+            "y" : 3.3455267087911205,
+            "z" : 4.0
+          },
+          "pointSet" : [ ],
+          "className" : "Line3d",
+          "visible" : false,
+          "displayMode" : 0
+        }, {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "direction" : {
+            "x" : 0.0,
+            "y" : -2.220446049250313E-16,
+            "z" : -1.0
+          },
+          "point" : {
+            "x" : 1.7500000000000002,
+            "y" : 0.8455267087911202,
+            "z" : 4.0
+          },
+          "pointSet" : [ ],
+          "className" : "Line3d",
+          "visible" : false,
+          "displayMode" : 0
+        }, {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "direction" : {
+            "x" : 0.0,
+            "y" : 1.0,
+            "z" : 0.0
+          },
+          "point" : {
+            "x" : 1.7500000000000002,
+            "y" : 0.8455267087911201,
+            "z" : 3.5
+          },
+          "pointSet" : [ ],
+          "className" : "Line3d",
+          "visible" : false,
+          "displayMode" : 0
+        }, {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "direction" : {
+            "x" : 0.0,
+            "y" : 8.881784197001252E-16,
+            "z" : 1.0
+          },
+          "point" : {
+            "x" : 1.7500000000000002,
+            "y" : 3.34552670879112,
+            "z" : 3.5
+          },
+          "pointSet" : [ ],
+          "className" : "Line3d",
+          "visible" : false,
+          "displayMode" : 0
+        } ],
+        "plane" : {
+          "panelLocation" : 0,
+          "panelOrientation" : 0,
+          "planePoint" : [ 1.7500000000000002, 3.3455267087911205, 4.0 ],
+          "planeNormal" : [ 1.0, 0.0, 0.0 ],
+          "normal" : {
+            "x" : 1.0,
+            "y" : 0.0,
+            "z" : 0.0
+          },
+          "point" : {
+            "x" : 1.7500000000000002,
+            "y" : 3.3455267087911205,
+            "z" : 4.0
+          },
+          "pointSet" : [ ],
+          "className" : "Plane",
+          "visible" : false,
+          "displayMode" : 0
+        },
+        "polygon3dInsidePolygon3d" : true,
+        "className" : "Polygon3d",
+        "visible" : false,
+        "displayMode" : 0
+      },
+      "stock" : null,
+      "pointSet" : [ ],
+      "className" : "Face",
+      "visible" : false,
+      "displayMode" : 0
+    } ],
+    "featureTimeStamp" : 2,
+    "mfgFeatureName" : "RECTANGULAR_SLOT(2)",
+    "stock" : null,
+    "pointSet" : [ ],
+    "className" : "GeomFeature",
+    "visible" : false,
+    "displayMode" : 0
+  },
+  "interactingFeatures" : [ ],
+  "tolerances" : {
+    "panelLocation" : 0,
+    "panelOrientation" : 0,
+    "toleranceHashTable" : { },
+    "className" : "PropertyTable",
+    "pointSet" : [ ],
+    "visible" : false,
+    "displayMode" : 0
+  },
+  "pcs" : {
+    "propertyChangeListeners" : [ ]
+  },
+  "slotPoint" : [ 2.0000000000000004, 2.09552670879112, 4.0 ],
+  "normal" : [ 0.0, 0.0, 1.0 ],
+  "sweep" : [ 0.0, 1.0, 0.0 ],
+  "width" : 0.5,
+  "bottom" : -0.0,
+  "positiveSweepLength" : 1.5,
+  "negativeSweepLength" : 1.5,
+  "length" : 3.0,
+  "open" : false,
+  "height" : 3.0,
+  "blind" : true,
+  "next" : [ ],
+  "previous" : [ ],
+  "processes" : [ ],
+  "machines" : [ ],
+  "featureShortName" : "RSLOT(2)",
+  "lispFeatureName" : "RECTANGULAR_SLOT_2",
+  "stock" : null,
+  "pointSet" : [ ],
+  "className" : "Slot",
+  "visible" : false,
+  "displayMode" : 0
+}
